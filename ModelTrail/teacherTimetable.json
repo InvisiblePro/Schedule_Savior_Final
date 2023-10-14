@@ -76,6 +76,64 @@
             "wednesday":["1:free","2:class","3:class","4:class","5:class","6:free","7:free","8:free"],
             "thursday":["1:free","2:class","3:class","4:free","5:class","6:free","7:free","8:free"], 
             "friday":["1:class","2:class","3:class","4:free","5:free","6:free","7:free","8:free"]
+        },
+        "prashant":{
+            "Monday":["1:class","2:class","3:free","4:class","5:class","6:class","7:free", "8:class"],
+            "Tuesday":["1:class","2:class","3:free","4:class","5:class","6:class", "7:class", "8:free"],
+            "Wednesday":["1:class","2:free","3:class","4:free","5:class","6:class", "7:free", "8:class"],
+            "Thursday":["1:class","2:class","3:class","4:class","5:free","6:free","7:class", "8:class"],
+            "Friday":["1:class","2:class","3:class","4:class","5:free","6:free", "7:class", "8:class"]
+        },
+        "shweta":{ 
+            "Monday":["1:class","2:free","3:free","4:class","5:class","6:class", "7:class", "8:class"],
+            "Tuesday":["1:class","2:class","3:class","4:free","5:class","6:free", "7:class", "8:class"],
+            "Wednesday":["1:class","2:class","3:free","4:class","5:free","6:free", "7:class", "8:class"],
+            "Thursday":["1:class","2:free","3:free","4:class","5:free","6:class", "7:class", "8:free"],
+            "Friday":["1:free","2:free","3:class","4:class","5:class","6:class", "7:free", "8:class"]
+        
+        },
+        "kirti":{
+            "Monday":["1:class","2:class","3:free","4:class","5:free","6:class", "7:class", "8:free"],
+            "Tuesday":["1:class","2:class","3:free","4:free","5:class","6:class", "7:class", "8:class"],
+            "Wednesday":["1:class","2:class","3:free","4:class","5:class","6:class", "7:free", "8:class"],
+            "Thursday":["1:class","2:free","3:class","4:class","5:class","6:class", "7:free", "8:class"],
+            "Friday":["1:class","2:class","3:class","4:free","5:class","6:class", "7:class", "8:class"]
+    
+        },
+        "sunita":{
+            "Monday":["1:class","2:class","3:free","4:free","5:class","6:class", "7:class", "8:free"],
+            "Tuesday":["1:class","2:class","3:class","4:free","5:free","6:class", "7:class", "8:class"],
+            "Wednesday":["1:free","2:free","3:class","4:class","5:class","6:class", "7:class", "8:class"],
+            "Thursday":["1:class","2:class","3:class","4:class","5:free","6:class", "7:class", "8:free"],
+            "Friday":["1:free","2:free","3:class","4:class","5:class","6:class", "7:class", "8:class"]
+        },
+        "kanchan":{
+            "Monday":["1:class","2:class","3:free","4:class","5:class","6:free", "7:free", "8:class"],
+            "Tuesday":["1:class","2:class","3:class","4:free","5:free","6:class", "7:class", "8:free"],
+            "Wednesday":["1:class","2:free","3:class","4:class","5:class","6:class", "7:free", "8:class"],
+            "Thursday":["1:class","2:class","3:class","4:class","5:free","6:class", "7:free", "8:class"],
+            "Friday":["1:class","2:free","3:class","4:class","5:free","6:free", "7:class", "8:class"]
+        },
+        "tara":{
+            "Monday":["1:class","2:free","3:class","4:free","5:class","6:class", "7:free", "8:class"],
+            "Tuesday":["1:class","2:free","3:class","4:class","5:class","6:class", "7:free", "8:class"],
+            "Wednesday":["1:free","2:class","3:class","4:class","5:free","6:class", "7:free", "8:class"],
+            "Thursday":["1:class","2:class","3:class","4:class","5:free","6:free", "7:class", "8:class"],
+            "Friday":["1:class","2:class","3:class","4:class","5:free","6:class", "7:free", "8:class"]
+        },
+        "vandana":{
+            "Monday":["1:class","2:class","3:free","4:class","5:class","6:free", "7:free", "8:class"],
+            "Tuesday":["1:free","2:class","3:class","4:class","5:class","6:free", "7:class", "8:class"],
+            "Wednesday":["1:class","2:class","3:free","4:free","5:class","6:class", "7:class", "8:free"],
+            "Thursday":["1:class","2:class","3:free","4:class","5:class","6:class", "7:class", "8:free"],
+            "Friday":["1:class","2:class","3:class","4:class","5:class","6:free", "7:free", "8:free"]
+        },
+        "alka":{
+            "Monday":["1:class","2:class","3:free","4:class","5:free","6:class", "7:class", "8:free"],
+            "Tuesday":["1:free","2:free","3:class","4:class","5:free","6:class", "7:free", "8:class"],
+            "Wednesday":["1:class","2:free","3:free","4:class","5:class","6:class", "7:free", "8:class"],
+            "Thursday":["1:class","2:class","3:class","4:free","5:free","6:class", "7:class", "8:free"],
+            "Friday":["1:class","2:class","3:class","4:class","5:free","6:class", "7:class", "8:free"]
         }
     }
 }
