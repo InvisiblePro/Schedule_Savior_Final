@@ -63,28 +63,19 @@
             "thursday":["1:free","2:free","3:free","4:free","5:free","6:free","7:class","8:free"], 
             "friday":["1:free","2:class","3:free","4:free","5:class","6:class","7:class","8:class"]
         },
-        "vandana":{
-            "monday":["1:class","2:class","3:class","4:free","5:free","6:class"],
-            "tuesday":["1:free","2:class","3:class","4:free","5:class","6:class"],
-            "wednesday":["1:class","2:class","3:class","4:free","5:free","6:free"],
-            "thursday":["1:free","2:class","3:class","4:free","5:free","6:free"],
-            "friday":["1:class","2:class","3:free","4:free","5:free","6:class"]
+        "gargi":{
+            "monday":["1:class","2:free","3:free","4:free","5:free","6:free","7:free","8:free"],
+            "tuesday":["1:free","2:free","3:free","4:class","5:class","6:class","7:free","8:free"],
+            "wednesday":["1:free","2:free","3:free","4:class","5:free","6:free","7:class","8:free"],
+            "thursday":["1:free","2:class","3:free","4:free","5:class","6:class","7:free","8:class"], 
+            "friday":["1:free","2:free","3:free","4:free","5:class","6:free","7:free","8:class"]
         },
-        "alka":{ 
-            "monday":["1:free","2:class","3:free","4:class","5:free","6:class"],
-            "tuesday":["1:class","2:free","3:class","4:free","5:free","6:class"],
-            "wednesday":["1:class","2:class","3:class","4:free","5:free","6:free"],
-            "thursday":["1:class","2:class","3:class","4:free","5:free","6:free"],
-            "friday":["1:class","2:class","3:free","4:free","5:free","6:class"]
-        
-        },
-        "kirti":{
-            "monday":["1:class","2:free","3:class","4:class","5:class","6:free"],
-            "tuesday":["1:class","2:class","3:class","4:free","5:free","6:class"],
-            "wednesday":["1:class","2:free","3:class","4:class","5:free","6:free"],
-            "thursday":["1:free","2:class","3:class","4:free","5:free","6:free"],
-            "friday":["1:free","2:class","3:free","4:free","5:free","6:class"]
-    
+        "shrejaya":{
+            "monday":["1:class","2:class","3:class","4:class","5:free","6:free","7:free","8:class"],
+            "tuesday":["1:free","2:free","3:class","4:free","5:class","6:free","7:free","8:free"],
+            "wednesday":["1:free","2:class","3:class","4:class","5:class","6:free","7:free","8:free"],
+            "thursday":["1:free","2:class","3:class","4:free","5:class","6:free","7:free","8:free"], 
+            "friday":["1:class","2:class","3:class","4:free","5:free","6:free","7:free","8:free"]
         }
     }
 }
